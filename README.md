@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[Email](subrotadey540@gmail.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am Half Finish
--->
