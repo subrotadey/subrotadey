@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Full-Stack Web development
 - 🌱 I’m currently learning ... ReactJs, NodeJs, MongoDB
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Portfolio](https://subrota-portfolio.netlify.app/)
+- 📫 How to reach me: ... [Portfolio](https://subrota-portfolio.netlify.app/) || subrotadey540@gmail.com
 - :hearts: &emsp;I want to explore the programming world and want to share my knowledge for all <br/>
 - 🤔 &emsp;I’m looking for people who can help me with learning new things and enjoy the beauty of programming.<br/>
-- :e-mail: &emsp;How to reach me: subrotadey540@gmail.com
 
 #### Feel Free to Connect With Me:
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/subrota.dey540) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/subrota-dey-9a7579210/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:subrotadey540@gmail.com)
