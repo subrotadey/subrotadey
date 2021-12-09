@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subrotadey&show_icons=true&theme=tokyonight&line_height=52" />
+</p>
+<p>
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subrotadey&count_private=true&theme=tokyonight&line_height=52" />
 </p>
 <p align="center">
