@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... ReactJs, NodeJs, MongoDB
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... subrotadey540@gmail.com [Portfolio](https://subrota-portfolio.netlify.app/)
+- 📫 How to reach me: ... subrotadey540@gmail.com || [Portfolio](https://subrota-portfolio.netlify.app/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am Half Finish
