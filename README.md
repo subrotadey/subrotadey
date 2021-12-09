@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Full-Stack Web development
 - 🌱 I’m currently learning ... ReactJs, NodeJs, MongoDB
-- 👯 I’m looking to collaborate on ... GitHub
-- 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Portfolio](https://subrota-portfolio.netlify.app/)
 - :hearts: &emsp;I want to explore the programming world and want to share my knowledge for all <br/>
@@ -28,7 +26,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img width="37.2%" src="https://github-readme-stats.vercel.app/api?username=subrotadey&show_icons=true&theme=tokyonight&line_height=52" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subrotadey&show_icons=true&theme=tokyonight&line_height=52" />
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subrotadey&count_private=true&theme=tokyonight&line_height=52" />
 </p>
 <p align="center">
