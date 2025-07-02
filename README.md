@@ -10,7 +10,6 @@ I am a Frontend Web Developer, and I'm very passionate and dedicated to my work.
 With wide experience as a React Web Developer, I have acquired the skills and knowledge necessary to succeed in your project. I enjoy every step of the design process, from discussion and collaboration.
 
 Here are some ideas to get you started:
-https://portfolio-umber-mu-73.vercel.app/
 
 - 🔭 I’m currently working on ... Full-Stack Web development
 - 🌱 I’m currently learning ... ReactJs, NodeJs, MongoDB
