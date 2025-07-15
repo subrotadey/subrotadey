@@ -1,20 +1,15 @@
 ![Subrota Dey Banner](https://i.ibb.co/dsmzgWhX/Navy-And-White-Geometric-Technology-Linked-In-Banner-1.png)
 
-
-# 💫 About Me:
-🎯 I’m currently working on a full-stack Cineplex movie ticket booking Platform using React, Node.js, Express, and MongoDB.  <br>🤝 I’m looking to collaborate on open-source projects, especially in **JavaScript, MERN Stack, or automation tools.  <br>🙌 I’m looking for help with optimizing backend performance and real-time features.  <br>🌱 I’m currently learning TypeScript, Next.js, and Redux Toolkit.  <br>💬 Ask me about Javascript, React, Firebase, MongoDB, or GitHub workflow.  <br>⚡ Fun fact: I love debugging complex code more than writing new features <br>
-
-
 #### Profile Visits
 ![Profile views](https://komarev.com/ghpvc/?username=subrotadey&label=PROFILE+VIEWS)
 
-
-![](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/s960x960/259986917_726483308326026_7823771125857726523_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_ohc=k0KF4QeZybAAX_D-wJ2&_nc_ht=scontent.fdac99-1.fna&oh=f253939f6dbd56f34dfc6c7c5eb74c3b&oe=619FE353)
-
 ### Hi there 👋, I'm Subrota Dey 👋
+
 # 💫 About Me:
 🎯 I’m currently working on a full-stack Cineplex movie ticket booking Platform using React, Node.js, Express, and MongoDB.  <br>🤝 I’m looking to collaborate on open-source projects, especially in **JavaScript, MERN Stack, or automation tools.  <br>🙌 I’m looking for help with optimizing backend performance and real-time features.  <br>🌱 I’m currently learning TypeScript, Next.js, and Redux Toolkit.  <br>💬 Ask me about Javascript, React, Firebase, MongoDB, or GitHub workflow.  <br>⚡ Fun fact: I love debugging complex code more than writing new features <br>
 
+
+![](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/s960x960/259986917_726483308326026_7823771125857726523_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_ohc=k0KF4QeZybAAX_D-wJ2&_nc_ht=scontent.fdac99-1.fna&oh=f253939f6dbd56f34dfc6c7c5eb74c3b&oe=619FE353)
 
 ## 🌐 Socials: Feel Free to Connect With Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/subrotadey) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/subrota.dey540) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subrota__dey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subrota-dey) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/subrota-dey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subrotadey540@gmail.com) 
@@ -34,6 +29,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=subrotadey&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=subrotadey&icon=0&color=0)](https://visitcount.itsvg.in)
